@@ -6,6 +6,6 @@
 </html>
 <body>
   <html>
-  <h1>Mirko zna gde si ti.</h1>
+  <h1 style="color: blue;">Mirko zna gde si ti.</h1>
   </html>
 </body>
